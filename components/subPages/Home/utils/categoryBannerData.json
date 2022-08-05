@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "img": "/images/Brand-Hero-1.png",
+    "title": "Fresh Fruits Collection"
+  },
+  {
+    "id": 2,
+    "img": "/images/Brand-Hero-2.png",
+    "title": "Vegetable Collection"
+  },
+  {
+    "id": 3,
+    "img": "/images/Brand-Hero-3.png",
+    "title": "Grocery Item"
+  }
+]

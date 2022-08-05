@@ -1,0 +1,84 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.css-14pt78w-MuiSlider-rail{
+    background: #828282;
+}
+
+.css-eg0mwd-MuiSlider-thumb{
+    background: #27AE60;
+}
+
+.css-eg0mwd-MuiSlider-thumb::after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: white;
+    width: 10px;
+    height: 10px;
+}
+
+.css-1gv0vcd-MuiSlider-track{
+    background: #27AE60;
+    border: none;
+}
+
+/* Popup */
+
+.my-popup-content {
+  margin: 10px auto !important;
+  background: rgb(255, 255, 255);
+  width: 90% !important;
+  padding: 5px;
+  border-radius: 5px;
+  }
+  
+  .popup-arrow {
+    color: rgb(255, 255, 255);
+  }
+  [role='tooltip'].popup-content {
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
+  }
+  
+  .popup-overlay {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  [data-popup='tooltip'].popup-overlay {
+    background: transparent;
+  }
+
+  /* Media Query */
+
+  @media screen and (min-width: 0px) and (max-width:1023px) {
+    .popup-content {
+      width: 70% !important;
+    }
+  }
+
+  @media screen and (min-width: 1024px) and (max-width:1200px) {
+    .popup-content {
+      width: 50% !important;
+    }
+  }
+
+  @media screen and (min-width: 1500px) and (max-width:1999px) {
+    .popup-content {
+      width: 70% !important;
+    }
+  }
+
+  @media screen and (min-width: 1024px) and (max-width:1499px) {
+    .popup-content {
+      width: 80% !important;
+    }
+  }

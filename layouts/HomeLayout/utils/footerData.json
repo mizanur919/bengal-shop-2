@@ -1,0 +1,60 @@
+[
+  {
+    "footerTop": [
+      {
+        "title": "About Us",
+        "data": [
+          { "href": "/", "text": "About Shop" },
+          { "href": "/", "text": "Career" },
+          { "href": "/", "text": "Contact" },
+          { "href": "/", "text": "Terms & Conditions" },
+          { "href": "/", "text": "Category" }
+        ]
+      },
+      {
+        "title": "Info",
+        "data": [
+          { "href": "/", "text": "Information" },
+          { "href": "/", "text": "Shipping" },
+          { "href": "/", "text": "Payment" },
+          { "href": "/", "text": "Return" },
+          { "href": "/", "text": "Blog" }
+        ]
+      }
+    ]
+  },
+  {
+    "footerBottom": {
+      "payments": [
+        {
+          "href": "/",
+          "img": "/images/paypal.png",
+          "title": "Paypal",
+          "imgWidth": "90",
+          "imgHeight": "23"
+        },
+        {
+          "href": "/",
+          "img": "/images/visa.png",
+          "title": "Visa",
+          "imgWidth": "60",
+          "imgHeight": "18"
+        },
+        {
+          "href": "/",
+          "img": "/images/pay.png",
+          "title": "Pay",
+          "imgWidth": "61",
+          "imgHeight": "26"
+        },
+        {
+          "href": "/",
+          "img": "/images/gpay.png",
+          "title": "gPay",
+          "imgWidth": "61",
+          "imgHeight": "24"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "/images/hero-slider-one.png",
+    "title": "Bengal Vegetable farm Organic 100%",
+    "subTitle": "Save up 30% off",
+    "btnText": "Shop Now",
+    "description": "We provide fresh and organic vegetables from our own farm. We are a team of dedicated farmers."
+  },
+  {
+    "id": 2,
+    "img": "/images/hero-slider-one.png",
+    "title": "Bengal Vegetable farm Organic 100%",
+    "subTitle": "Save up 40% off",
+    "btnText": "Buy Now",
+    "description": "Providing fresh and organic vegetables from our own farm. We are a team of dedicated farmers."
+  },
+  {
+    "id": 3,
+    "img": "/images/hero-slider-one.png",
+    "title": "We are a team of farmers",
+    "subTitle": "Save up 60% off",
+    "btnText": "Buy Now",
+    "description": "Collect the best fresh and organic vegetables from our own farm. We are a team of dedicated farmers."
+  }
+]

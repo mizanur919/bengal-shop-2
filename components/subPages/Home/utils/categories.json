@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "/images/cat-1.png",
+    "title": "Grocery",
+    "href": "/grocery"
+  },
+  {
+    "id": 2,
+    "img": "/images/cat-2.png",
+    "title": "Fish",
+    "href": "/fish"
+  },
+  {
+    "id": 3,
+    "img": "/images/cat-6.png",
+    "title": "Meat",
+    "href": "/meat"
+  },
+  {
+    "id": 4,
+    "img": "/images/cat-4.png",
+    "title": "Vegetables",
+    "href": "/vegetables"
+  },
+  {
+    "id": 5,
+    "img": "/images/cat-5.png",
+    "title": "Fruits",
+    "href": "/fruits"
+  },
+  {
+    "id": 6,
+    "img": "/images/cat-3.png",
+    "title": "Ice Cream",
+    "href": "/ice-cream"
+  }
+]
